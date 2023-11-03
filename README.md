@@ -7,7 +7,7 @@ Nagios check that uses HYCU's REST API to get backup status
 This script uses theses libs : 
 REST::Client, Data::Dumper, Monitoring::Plugin, MIME::Base64, JSON, LWP::UserAgent, Readonly
 
-to install them type ::
+to install them type :
 
 ```
 sudo cpan REST::Client Data::Dumper Monitoring::Plugin MIME::Base64 JSON LWP::UserAgent Readonly
