@@ -114,7 +114,7 @@ $np->add_arg(
 $np->add_arg(
     spec => 'listvms|L',
     help => "-L, --listvms\n"  
-          . '   Autodiscover proteted vm list',
+          . '   Autodiscover protected vm list',
 
 );
 
