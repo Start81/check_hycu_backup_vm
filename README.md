@@ -58,7 +58,7 @@ Usage: check_hycu_backup.pl -H <hostname> -p <port>  -u <User> -P <password> -n 
  -u, --unit=unit
    Unit are m|h|d for minutes|hours|day
  -L, --listvms
-   Autodiscover proteted vm list
+   Autodiscover protected vm list
  -t, --timeout=INTEGER
    Seconds before plugin times out (default: 30)
  -v, --verbose
